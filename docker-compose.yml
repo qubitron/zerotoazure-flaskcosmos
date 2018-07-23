@@ -2,7 +2,10 @@ version: '2.1'
 
 services:
   stackoverflow-flask:
-    image: zerotoazure.azurecr.io/hello-azure:latest
+    image: epregistry.azurecr.io/zerotoazure:latest
     build: .
+    environment:
+      - COSMOSDB_HOST=
+      - COSMOSDB_KEY=
     ports:
       - 8000:8000
