@@ -40,7 +40,7 @@
 				var data = response.data;
 				console.log(data);
 
-				var years = ['2013','2014','2015','2016', '2017'];
+				var years = ['2013','2014','2015','2016', '2017', '2018'];
 				var languages = ['Python', 'C#'];
 				var pythonData = [];
 				var javaData = [];
@@ -56,13 +56,6 @@
 					cppData.push(data[year].percent['C++']);
 					jsData.push(data[year].percent['JavaScript']);
 				});
-
-				years.push('2018');
-				pythonData.push(38.8);
-				csData.push(34.4);
-				javaData.push(45.3);
-				cppData.push(25.4);
-				jsData.push(69.8);
 
 				var config = {
 					type: 'line',
