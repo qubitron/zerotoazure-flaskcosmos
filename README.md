@@ -1,3 +1,7 @@
+## Slides + Content
+ - [Download Slides](https://1drv.ms/p/s!Ak85dR9Am4LtgiG8MgpG-ixsqF1k)
+ - [Clone Notebook](https://notebooks.azure.com/qubitron/libraries/stackoverflow)
+
 
 ## Prerequisites
 To use this demo app:
