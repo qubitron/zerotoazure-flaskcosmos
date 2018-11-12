@@ -1,4 +1,5 @@
 ## Slides + Content
+ - [EuroPython Video](https://www.youtube.com/watch?v=I1cG1FRjFOQ)
  - [Download Slides](https://1drv.ms/p/s!Ak85dR9Am4LtgiG8MgpG-ixsqF1k)
  - [Clone Notebook](https://notebooks.azure.com/qubitron/libraries/stackoverflow)
 
